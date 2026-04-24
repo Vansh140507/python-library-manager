@@ -1,0 +1,3 @@
+
+books = {}
+issue_books = []
