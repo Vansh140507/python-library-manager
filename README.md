@@ -39,6 +39,6 @@ Concepts Used: Dictionaries, Lists, Functions, Modular Design, CLI Input/Output
 
 🚀 How to Run
 
-bashgit clone https://github.com/your-username/python-library-manager.git
+bashgit clone https://github.com/Vansh140507/python-library-manager.git
 cd python-library-manager
 python main.py
